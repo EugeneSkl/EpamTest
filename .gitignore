@@ -1,7 +1,13 @@
-# no .log and db files
-*.log
-*.db
-
-# no target and bin directories
-/target
-/bin
+*.jar
+*.war
+*.ear
+.idea/
+*.iml
+*.iws
+log/
+target/
+*.class
+bin/
+build/
+/bin1/
+java/build/**
